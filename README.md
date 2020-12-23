@@ -37,6 +37,8 @@ First, we will build and test a circuit using the temperature sensor.
     | G | GND | GND |
     | D3 | GPIO 0 | DQ |
 
+   ![pinout](assets/wemos-d1-mini-pinout.png)
+
 2. Make sure the temperature sensor is wired the correct way round!
 
 3. - If using Arduino IDE, open the [ds18b20-simple](arduino/ds18b20-simple/ds18b20-simple.ino) sketch and run it.
